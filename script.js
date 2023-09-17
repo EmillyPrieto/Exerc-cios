@@ -11,3 +11,10 @@ function exercicio1(){
   `
 
 }
+  
+function exercicio2(){
+  
+  return n ? countdown(n - 1) : 0; 
+}
+
+countdown(10);
